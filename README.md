@@ -15,10 +15,6 @@ Hey, I'm Saif!
 </a>
 </div>
 
-<div id="profile views" align="center">
-<img src="https://komarev.com/ghpvc/?username=Saif-Ahh&style=flat-square&color=blue" alt=""/>
-</div>
-
 <h4>
 
 💼 Software Engineer Intern at IBM.
