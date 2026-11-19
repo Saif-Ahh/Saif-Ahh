@@ -3,7 +3,7 @@
 Hey, I'm Saif!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>Software Engineer Intern @ IBM · CS @ University of Toronto/h2>
+<h2>Software Engineer Intern @ IBM · CS @ University of Toronto</h2>
 </div>
 
 <div id="badges" align="center">
