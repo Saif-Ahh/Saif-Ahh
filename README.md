@@ -81,30 +81,12 @@ Hey, I'm Saif!
 ---
 :briefcase: My projects :
 ---
-- ## [FlyNext](https://github.com/Saif-Ahh/FlyNext)
-Tags: *#full-stack web app #REST API*
-
-A full-stack travel booking app for searching, booking and managing flights with real flight data from the AFS API. Includes authentication, a RESTful backend and containerized deployment behind an nginx reverse proxy (Next.js, React, TypeScript, TailwindCSS, Prisma, PostgreSQL, Docker, nginx).
-
-[Docs](https://github.com/Saif-Ahh/FlyNext/blob/main/README.md)
-
----
-
 - ## [ChessBot](https://github.com/Saif-Ahh/ChessBot)
 Tags: *#computer vision #AI/ML*
 
 A computer vision chess analyzer that detects board positions from screenshots. A CNN classifies each square into 13 classes (empty + 12 piece types) with ~92.5% test accuracy, and is designed to plug into a move-suggestion engine like Stockfish (Python, TensorFlow/Keras, OpenCV, NumPy).
 
 [Docs](https://github.com/Saif-Ahh/ChessBot/blob/main/README.md)
-
----
-
-- ## [Financial Bot](https://github.com/Saif-Ahh/FinancialBot)
-Tags: *#LLM #chatbot #graph database*
-
-A chatbot that retrieves and analyzes financial data extracted from companies' 10-K filings — net income, gross margin and more — through an interactive chat interface (Python, Streamlit, LangChain, Neo4j, OpenAI API).
-
-[Docs](https://github.com/Saif-Ahh/FinancialBot/blob/main/README.md)
 
 ---
 
@@ -123,6 +105,24 @@ Tags: *#data science #deep learning*
 Predicts loan statuses with a neural network, including data cleaning, exploratory data analysis with visualizations, and evaluation with a confusion matrix and classification report (Python, Jupyter Notebook).
 
 [Docs](https://github.com/Saif-Ahh/LoanDetector/blob/main/README.md)
+
+---
+
+- ## [Financial Bot](https://github.com/Saif-Ahh/FinancialBot)
+Tags: *#LLM #chatbot #graph database*
+
+A chatbot that retrieves and analyzes financial data extracted from companies' 10-K filings — net income, gross margin and more — through an interactive chat interface (Python, Streamlit, LangChain, Neo4j, OpenAI API).
+
+[Docs](https://github.com/Saif-Ahh/FinancialBot/blob/main/README.md)
+
+---
+
+- ## [FlyNext](https://github.com/Saif-Ahh/FlyNext)
+Tags: *#full-stack web app #REST API*
+
+A full-stack travel booking app for searching, booking and managing flights with real flight data from the AFS API. Includes authentication, a RESTful backend and containerized deployment behind an nginx reverse proxy (Next.js, React, TypeScript, TailwindCSS, Prisma, PostgreSQL, Docker, nginx).
+
+[Docs](https://github.com/Saif-Ahh/FlyNext/blob/main/README.md)
 
 ---
 ### :fire: My Stats :
