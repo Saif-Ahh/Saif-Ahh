@@ -3,7 +3,7 @@
 Hey, I'm Saif!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>Software Engineer Intern @ IBM · CS @ UofT Mississauga</h2>
+<h2>Software Engineer Intern @ IBM · CS @ University of Toronto/h2>
 </div>
 
 <div id="badges" align="center">
@@ -21,13 +21,13 @@ Hey, I'm Saif!
 
 <h4>
 
-💼 Software Engineer Intern at IBM — previously at Objectway and the University of Toronto.
+💼 Software Engineer Intern at IBM.
 
 🤓 I build full-stack web apps, computer vision models, and LLM-powered tools.
 
 🚀 I enjoy turning real-world problems into clean, working software.
 
-🔭 I love exploring machine learning, working with data, and diving into new technologies.
+🔭 I love exploring machine learning, working with data, and learning into new technologies.
 
 📬 For opportunities or just a friendly chat: [![Gmail Badge](https://img.shields.io/badge/-saif.ahmed0263@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saif.ahmed0263@gmail.com)
 
